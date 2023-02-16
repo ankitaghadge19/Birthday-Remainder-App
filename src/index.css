@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin-top: 0;
+    padding: 0;
+   
+    
+  }
+
+  body{
+     background-image: url(BirthdayImage.jpeg);
+    background-repeat: no-repeat;
+  }
+
+ 

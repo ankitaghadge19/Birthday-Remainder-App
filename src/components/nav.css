@@ -1,0 +1,13 @@
+.note{
+    height: 2.6rem;
+    border-radius: .4rem;
+    width: 2.7rem;
+}
+
+.nav-link{
+    color: white;
+}
+
+/* .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: #ed75b7;
+} */
